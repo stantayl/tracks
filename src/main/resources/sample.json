@@ -1,0 +1,1108 @@
+{
+  "artist": "Al Jarreau",
+  "albums":
+  [
+    {
+      "tracks":
+      [
+        {
+          "title": "Compared to What",
+          "filename": "/volume1/music/Music/J/Jarreau, Al/Compared to What.mp3",
+          "length": 322957
+        }
+      ]
+    },
+    {
+      "album": "Accentuate the Positive",
+      "year": 2004,
+      "tracks":
+      [
+        {
+          "track": 1,
+          "title": "Cold Duck",
+          "filename": "/volume1/music/Music/J/Jarreau, Al/Accentuate the Positive (2004)/01 Cold Duck.mp3",
+          "genre": "Jazz Vocal",
+          "length": 226773
+        },
+        {
+          "track": 2,
+          "title": "The Nearness of You",
+          "filename": "/volume1/music/Music/J/Jarreau, Al/Accentuate the Positive (2004)/02 The Nearness of You.mp3",
+          "genre": "Jazz Vocal",
+          "length": 224173
+        },
+        {
+          "track": 3,
+          "title": "I'm Beginning to See the Light",
+          "filename": "/volume1/music/Music/J/Jarreau, Al/Accentuate the Positive (2004)/03 I'm Beginning to See the Light.mp3",
+          "genre": "Jazz Vocal",
+          "length": 245293
+        },
+        {
+          "track": 4,
+          "title": "My Foolish Heart",
+          "filename": "/volume1/music/Music/J/Jarreau, Al/Accentuate the Positive (2004)/04 My Foolish Heart.mp3",
+          "genre": "Jazz Vocal",
+          "length": 333253
+        },
+        {
+          "track": 5,
+          "title": "Midnight Sun",
+          "filename": "/volume1/music/Music/J/Jarreau, Al/Accentuate the Positive (2004)/05 Midnight Sun.mp3",
+          "genre": "Jazz Vocal",
+          "length": 361813
+        },
+        {
+          "track": 6,
+          "title": "Ac-cent-tchu-ate the Positive",
+          "filename": "/volume1/music/Music/J/Jarreau, Al/Accentuate the Positive (2004)/06 Ac-cent-tchu-ate the Positive.mp3",
+          "genre": "Jazz Vocal",
+          "length": 243813
+        },
+        {
+          "track": 7,
+          "title": "Betty Bebop's Song",
+          "filename": "/volume1/music/Music/J/Jarreau, Al/Accentuate the Positive (2004)/07 Betty Bebop's Song.mp3",
+          "genre": "Jazz Vocal",
+          "length": 257079
+        },
+        {
+          "track": 8,
+          "title": "Waltz for Debby",
+          "filename": "/volume1/music/Music/J/Jarreau, Al/Accentuate the Positive (2004)/08 Waltz for Debby.mp3",
+          "genre": "Jazz Vocal",
+          "length": 284293
+        },
+        {
+          "track": 9,
+          "title": "Groovin' High",
+          "filename": "/volume1/music/Music/J/Jarreau, Al/Accentuate the Positive (2004)/09 Groovin' High.mp3",
+          "genre": "Jazz Vocal",
+          "length": 251333
+        },
+        {
+          "track": 10,
+          "title": "Lotus",
+          "filename": "/volume1/music/Music/J/Jarreau, Al/Accentuate the Positive (2004)/10 Lotus.mp3",
+          "genre": "Jazz Vocal",
+          "length": 311626
+        },
+        {
+          "track": 11,
+          "title": "Scootcha-Booty",
+          "filename": "/volume1/music/Music/J/Jarreau, Al/Accentuate the Positive (2004)/11 Scootcha-Booty.mp3",
+          "genre": "Jazz Vocal",
+          "length": 265773
+        }
+      ]
+    },
+    {
+      "album": "All Fly Home",
+      "year": 1978,
+      "tracks":
+      [
+        {
+          "track": 1,
+          "title": "Thinkin' About It Too",
+          "filename": "/volume1/music/Music/J/Jarreau, Al/All Fly Home (1978)/01 Thinkin' About It Too.mp3",
+          "genre": "Jazz Vocal",
+          "length": 202133
+        },
+        {
+          "track": 2,
+          "title": "I'm Home",
+          "filename": "/volume1/music/Music/J/Jarreau, Al/All Fly Home (1978)/02 I'm Home.mp3",
+          "genre": "Jazz Vocal",
+          "length": 322640
+        },
+        {
+          "track": 3,
+          "title": "Brite 'n' Sunny Babe",
+          "filename": "/volume1/music/Music/J/Jarreau, Al/All Fly Home (1978)/03 Brite 'n' Sunny Babe.mp3",
+          "genre": "Jazz Vocal",
+          "length": 211400
+        },
+        {
+          "track": 4,
+          "title": "I Do",
+          "filename": "/volume1/music/Music/J/Jarreau, Al/All Fly Home (1978)/04 I Do.mp3",
+          "genre": "Jazz Vocal",
+          "length": 267560
+        },
+        {
+          "track": 5,
+          "title": "Fly",
+          "filename": "/volume1/music/Music/J/Jarreau, Al/All Fly Home (1978)/05 Fly.mp3",
+          "genre": "Jazz Vocal",
+          "length": 232040
+        },
+        {
+          "track": 6,
+          "title": "Wait a Little While",
+          "filename": "/volume1/music/Music/J/Jarreau, Al/All Fly Home (1978)/06 Wait a Little While.mp3",
+          "genre": "Jazz Vocal",
+          "length": 220333
+        },
+        {
+          "track": 7,
+          "title": "She's Leaving Home",
+          "filename": "/volume1/music/Music/J/Jarreau, Al/All Fly Home (1978)/07 She's Leaving Home.mp3",
+          "genre": "Jazz Vocal",
+          "length": 426200
+        },
+        {
+          "track": 8,
+          "title": "All",
+          "filename": "/volume1/music/Music/J/Jarreau, Al/All Fly Home (1978)/08 All.mp3",
+          "genre": "Jazz Vocal",
+          "length": 232066
+        },
+        {
+          "track": 9,
+          "title": "Sittin' On the Dock of the Bay",
+          "filename": "/volume1/music/Music/J/Jarreau, Al/All Fly Home (1978)/09 Sittin' On the Dock of the Bay.mp3",
+          "genre": "Jazz Vocal",
+          "length": 241760
+        }
+      ]
+    },
+    {
+      "album": "Breakin' Away",
+      "year": 1981,
+      "tracks":
+      [
+        {
+          "track": 1,
+          "title": "Closer To Your Love",
+          "filename": "/volume1/music/Music/J/Jarreau, Al/Breakin' Away (1981)/01 Closer To Your Love.mp3",
+          "genre": "Jazz Vocal",
+          "length": 237706
+        },
+        {
+          "track": 2,
+          "title": "My Old Friend",
+          "filename": "/volume1/music/Music/J/Jarreau, Al/Breakin' Away (1981)/02 My Old Friend.mp3",
+          "genre": "Jazz Vocal",
+          "length": 269000
+        },
+        {
+          "track": 3,
+          "title": "We're In This Love Together",
+          "filename": "/volume1/music/Music/J/Jarreau, Al/Breakin' Away (1981)/03 We're In This Love Together.mp3",
+          "genre": "Jazz Vocal",
+          "length": 227000
+        },
+        {
+          "track": 4,
+          "title": "Easy",
+          "filename": "/volume1/music/Music/J/Jarreau, Al/Breakin' Away (1981)/04 Easy.mp3",
+          "genre": "Jazz Vocal",
+          "length": 326000
+        },
+        {
+          "track": 5,
+          "title": "Our Love",
+          "filename": "/volume1/music/Music/J/Jarreau, Al/Breakin' Away (1981)/05 Our Love.mp3",
+          "genre": "Jazz Vocal",
+          "length": 233000
+        },
+        {
+          "track": 6,
+          "title": "Breakin' Away",
+          "filename": "/volume1/music/Music/J/Jarreau, Al/Breakin' Away (1981)/06 Breakin' Away.mp3",
+          "genre": "Jazz Vocal",
+          "length": 253933
+        },
+        {
+          "track": 7,
+          "title": "Roof Garden",
+          "filename": "/volume1/music/Music/J/Jarreau, Al/Breakin' Away (1981)/07 Roof Garden.mp3",
+          "genre": "Jazz Vocal",
+          "length": 381066
+        },
+        {
+          "track": 8,
+          "title": "(Round, Round, Round) Blue Rondo a La Turk",
+          "filename": "/volume1/music/Music/J/Jarreau, Al/Breakin' Away (1981)/08 (Round, Round, Round) Blue Rondo a La Turk.mp3",
+          "genre": "Jazz Vocal",
+          "length": 284800
+        },
+        {
+          "track": 9,
+          "title": "Teach Me Tonight",
+          "filename": "/volume1/music/Music/J/Jarreau, Al/Breakin' Away (1981)/09 Teach Me Tonight.mp3",
+          "genre": "Jazz Vocal",
+          "length": 253133
+        }
+      ]
+    },
+    {
+      "album": "Givin' It Up",
+      "year": 2006,
+      "tracks":
+      [
+        {
+          "track": 1,
+          "title": "Breezin'",
+          "filename": "/volume1/music/Music/J/Jarreau, Al/(with George Benson) Givin' It Up (2006)/01 Breezin'.mp3",
+          "genre": "Jazz Vocal",
+          "length": 340466
+        },
+        {
+          "track": 2,
+          "title": "Mornin'",
+          "filename": "/volume1/music/Music/J/Jarreau, Al/(with George Benson) Givin' It Up (2006)/02 Mornin'.mp3",
+          "genre": "Jazz Vocal",
+          "length": 303386
+        },
+        {
+          "track": 3,
+          "title": "'Long Come Tutu",
+          "filename": "/volume1/music/Music/J/Jarreau, Al/(with George Benson) Givin' It Up (2006)/03 'Long Come Tutu.mp3",
+          "genre": "Jazz Vocal",
+          "length": 398453
+        },
+        {
+          "track": 4,
+          "title": "God Bless the Child",
+          "filename": "/volume1/music/Music/J/Jarreau, Al/(with George Benson) Givin' It Up (2006)/04 God Bless the Child.mp3",
+          "genre": "Jazz Vocal",
+          "length": 222053
+        },
+        {
+          "track": 5,
+          "title": "Summer Breeze",
+          "filename": "/volume1/music/Music/J/Jarreau, Al/(with George Benson) Givin' It Up (2006)/05 Summer Breeze.mp3",
+          "genre": "Jazz Vocal",
+          "length": 303160
+        },
+        {
+          "track": 6,
+          "title": "All I Am",
+          "filename": "/volume1/music/Music/J/Jarreau, Al/(with George Benson) Givin' It Up (2006)/06 All I Am.mp3",
+          "genre": "Jazz Vocal",
+          "length": 204000
+        },
+        {
+          "track": 7,
+          "title": "Ordinary People",
+          "filename": "/volume1/music/Music/J/Jarreau, Al/(with George Benson) Givin' It Up (2006)/07 Ordinary People.mp3",
+          "genre": "Jazz Vocal",
+          "length": 319493
+        },
+        {
+          "track": 8,
+          "title": "Let It Rain",
+          "filename": "/volume1/music/Music/J/Jarreau, Al/(with George Benson) Givin' It Up (2006)/08 Let It Rain.mp3",
+          "genre": "Jazz Vocal",
+          "length": 295000
+        },
+        {
+          "track": 9,
+          "title": "Givin' It Up For Love",
+          "filename": "/volume1/music/Music/J/Jarreau, Al/(with George Benson) Givin' It Up (2006)/09 Givin' It Up For Love.mp3",
+          "genre": "Jazz Vocal",
+          "length": 238546
+        },
+        {
+          "track": 10,
+          "title": "Every Time You Go Away",
+          "filename": "/volume1/music/Music/J/Jarreau, Al/(with George Benson) Givin' It Up (2006)/10 Every Time You Go Away.mp3",
+          "genre": "Jazz Vocal",
+          "length": 271000
+        },
+        {
+          "track": 11,
+          "title": "Four",
+          "filename": "/volume1/music/Music/J/Jarreau, Al/(with George Benson) Givin' It Up (2006)/11 Four.mp3",
+          "genre": "Jazz Vocal",
+          "length": 315493
+        },
+        {
+          "track": 12,
+          "title": "Don't Start No Schtuff",
+          "filename": "/volume1/music/Music/J/Jarreau, Al/(with George Benson) Givin' It Up (2006)/12 Don't Start No Schtuff.mp3",
+          "genre": "Jazz Vocal",
+          "length": 285386
+        },
+        {
+          "track": 13,
+          "title": "Bring It On Home To Me",
+          "filename": "/volume1/music/Music/J/Jarreau, Al/(with George Benson) Givin' It Up (2006)/13 Bring It On Home To Me.mp3",
+          "genre": "Jazz Vocal",
+          "length": 264093
+        }
+      ]
+    },
+    {
+      "album": "Heart's Horizon",
+      "year": 1988,
+      "tracks":
+      [
+        {
+          "track": 1,
+          "title": "All or Nothing At All",
+          "filename": "/volume1/music/Music/J/Jarreau, Al/Heart's Horizon (1988)/01 All or Nothing At All.mp3",
+          "genre": "Jazz Vocal",
+          "length": 238373
+        },
+        {
+          "track": 2,
+          "title": "So Good",
+          "filename": "/volume1/music/Music/J/Jarreau, Al/Heart's Horizon (1988)/02 So Good.mp3",
+          "genre": "Jazz Vocal",
+          "length": 279800
+        },
+        {
+          "track": 3,
+          "title": "All of My Love",
+          "filename": "/volume1/music/Music/J/Jarreau, Al/Heart's Horizon (1988)/03 All of My Love.mp3",
+          "genre": "Jazz Vocal",
+          "length": 283893
+        },
+        {
+          "track": 4,
+          "title": "Pleasure Over Pain",
+          "filename": "/volume1/music/Music/J/Jarreau, Al/Heart's Horizon (1988)/04 Pleasure Over Pain.mp3",
+          "genre": "Jazz Vocal",
+          "length": 320973
+        },
+        {
+          "track": 5,
+          "title": "Yo' Jeans",
+          "filename": "/volume1/music/Music/J/Jarreau, Al/Heart's Horizon (1988)/05 Yo' Jeans.mp3",
+          "genre": "Jazz Vocal",
+          "length": 106333
+        },
+        {
+          "track": 6,
+          "title": "Way To Your Heart",
+          "filename": "/volume1/music/Music/J/Jarreau, Al/Heart's Horizon (1988)/06 Way To Your Heart.mp3",
+          "genre": "Jazz Vocal",
+          "length": 275226
+        },
+        {
+          "track": 7,
+          "title": "One Way",
+          "filename": "/volume1/music/Music/J/Jarreau, Al/Heart's Horizon (1988)/07 One Way.mp3",
+          "genre": "Jazz Vocal",
+          "length": 281906
+        },
+        {
+          "track": 8,
+          "title": "10k Hi",
+          "filename": "/volume1/music/Music/J/Jarreau, Al/Heart's Horizon (1988)/08 10k Hi.mp3",
+          "genre": "Jazz Vocal",
+          "length": 225533
+        },
+        {
+          "track": 9,
+          "title": "I Must Have Been a Fool",
+          "filename": "/volume1/music/Music/J/Jarreau, Al/Heart's Horizon (1988)/09 I Must Have Been a Fool.mp3",
+          "genre": "Jazz Vocal",
+          "length": 250893
+        },
+        {
+          "track": 10,
+          "title": "More Love",
+          "filename": "/volume1/music/Music/J/Jarreau, Al/Heart's Horizon (1988)/10 More Love.mp3",
+          "genre": "Jazz Vocal",
+          "length": 216333
+        },
+        {
+          "track": 11,
+          "title": "Killer Love",
+          "filename": "/volume1/music/Music/J/Jarreau, Al/Heart's Horizon (1988)/11 Killer Love.mp3",
+          "genre": "Jazz Vocal",
+          "length": 252440
+        },
+        {
+          "track": 12,
+          "title": "Heart's Horizon",
+          "filename": "/volume1/music/Music/J/Jarreau, Al/Heart's Horizon (1988)/12 Heart's Horizon.mp3",
+          "genre": "Jazz Vocal",
+          "length": 277160
+        }
+      ]
+    },
+    {
+      "album": "High Crime",
+      "year": 1984,
+      "tracks":
+      [
+        {
+          "track": 1,
+          "title": "Raging Waters",
+          "filename": "/volume1/music/Music/J/Jarreau, Al/High Crime (1984)/01 Raging Waters.mp3",
+          "genre": "Jazz Vocal",
+          "length": 267560
+        },
+        {
+          "track": 2,
+          "title": "Imagination",
+          "filename": "/volume1/music/Music/J/Jarreau, Al/High Crime (1984)/02 Imagination.mp3",
+          "genre": "Jazz Vocal",
+          "length": 283333
+        },
+        {
+          "track": 3,
+          "title": "Murphy's Law",
+          "filename": "/volume1/music/Music/J/Jarreau, Al/High Crime (1984)/03 Murphy's Law.mp3",
+          "genre": "Jazz Vocal",
+          "length": 250373
+        },
+        {
+          "track": 4,
+          "title": "Tell Me",
+          "filename": "/volume1/music/Music/J/Jarreau, Al/High Crime (1984)/04 Tell Me.mp3",
+          "genre": "Jazz Vocal",
+          "length": 275693
+        },
+        {
+          "track": 5,
+          "title": "After All",
+          "filename": "/volume1/music/Music/J/Jarreau, Al/High Crime (1984)/05 After All.mp3",
+          "genre": "Jazz Vocal",
+          "length": 259533
+        },
+        {
+          "track": 6,
+          "title": "High Crime",
+          "filename": "/volume1/music/Music/J/Jarreau, Al/High Crime (1984)/06 High Crime.mp3",
+          "genre": "Jazz Vocal",
+          "length": 271906
+        },
+        {
+          "track": 7,
+          "title": "Let's Pretend",
+          "filename": "/volume1/music/Music/J/Jarreau, Al/High Crime (1984)/07 Let's Pretend.mp3",
+          "genre": "Jazz Vocal",
+          "length": 240960
+        },
+        {
+          "track": 8,
+          "title": "Sticky Wicket",
+          "filename": "/volume1/music/Music/J/Jarreau, Al/High Crime (1984)/08 Sticky Wicket.mp3",
+          "genre": "Jazz Vocal",
+          "length": 259666
+        },
+        {
+          "track": 9,
+          "title": "Love Speaks Louder Than Words",
+          "filename": "/volume1/music/Music/J/Jarreau, Al/High Crime (1984)/09 Love Speaks Louder Than Words.mp3",
+          "genre": "Jazz Vocal",
+          "length": 236840
+        },
+        {
+          "track": 10,
+          "title": "Fallin'",
+          "filename": "/volume1/music/Music/J/Jarreau, Al/High Crime (1984)/10 Fallin'.mp3",
+          "genre": "Jazz Vocal",
+          "length": 294866
+        }
+      ]
+    },
+    {
+      "album": "In London",
+      "year": 1985,
+      "tracks":
+      [
+        {
+          "track": 1,
+          "title": "Raging Waters",
+          "filename": "/volume1/music/Music/J/Jarreau, Al/In London (live, 1985)/01 Raging Waters.mp3",
+          "genre": "Jazz Vocal",
+          "length": 340333
+        },
+        {
+          "track": 2,
+          "title": "Black and Blues",
+          "filename": "/volume1/music/Music/J/Jarreau, Al/In London (live, 1985)/02 Black and Blues.mp3",
+          "genre": "Jazz Vocal",
+          "length": 265226
+        },
+        {
+          "track": 3,
+          "title": "I Will Be There For You",
+          "filename": "/volume1/music/Music/J/Jarreau, Al/In London (live, 1985)/03 I Will Be There For You.mp3",
+          "genre": "Jazz Vocal",
+          "length": 314666
+        },
+        {
+          "track": 4,
+          "title": "Let's Pretend",
+          "filename": "/volume1/music/Music/J/Jarreau, Al/In London (live, 1985)/04 Let's Pretend.mp3",
+          "genre": "Jazz Vocal",
+          "length": 335240
+        },
+        {
+          "track": 5,
+          "title": "High Crime",
+          "filename": "/volume1/music/Music/J/Jarreau, Al/In London (live, 1985)/05 High Crime.mp3",
+          "genre": "Jazz Vocal",
+          "length": 273200
+        },
+        {
+          "track": 6,
+          "title": "Roof Garden",
+          "filename": "/volume1/music/Music/J/Jarreau, Al/In London (live, 1985)/06 Roof Garden.mp3",
+          "genre": "Jazz Vocal",
+          "length": 288266
+        },
+        {
+          "track": 7,
+          "title": "Teach Me Tonight",
+          "filename": "/volume1/music/Music/J/Jarreau, Al/In London (live, 1985)/07 Teach Me Tonight.mp3",
+          "genre": "Jazz Vocal",
+          "length": 311200
+        },
+        {
+          "track": 8,
+          "title": "We're In This Love Together",
+          "filename": "/volume1/music/Music/J/Jarreau, Al/In London (live, 1985)/08 We're In This Love Together.mp3",
+          "genre": "Jazz Vocal",
+          "length": 247560
+        }
+      ]
+    },
+    {
+      "album": "Jarreau",
+      "year": 1983,
+      "tracks":
+      [
+        {
+          "track": 1,
+          "title": "Mornin'",
+          "filename": "/volume1/music/Music/J/Jarreau, Al/Jarreau (1983)/01 Mornin'.mp3",
+          "genre": "Jazz Vocal",
+          "length": 255706
+        },
+        {
+          "track": 2,
+          "title": "Boogie Down",
+          "filename": "/volume1/music/Music/J/Jarreau, Al/Jarreau (1983)/02 Boogie Down.mp3",
+          "genre": "Jazz Vocal",
+          "length": 251826
+        },
+        {
+          "track": 3,
+          "title": "I Will Be Here For You",
+          "filename": "/volume1/music/Music/J/Jarreau, Al/Jarreau (1983)/03 I Will Be Here For You.mp3",
+          "genre": "Jazz Vocal",
+          "length": 259333
+        },
+        {
+          "track": 4,
+          "title": "Save Me",
+          "filename": "/volume1/music/Music/J/Jarreau, Al/Jarreau (1983)/04 Save Me.mp3",
+          "genre": "Jazz Vocal",
+          "length": 392106
+        },
+        {
+          "track": 5,
+          "title": "Step by Step",
+          "filename": "/volume1/music/Music/J/Jarreau, Al/Jarreau (1983)/05 Step by Step.mp3",
+          "genre": "Jazz Vocal",
+          "length": 267000
+        },
+        {
+          "track": 6,
+          "title": "Black and Blues",
+          "filename": "/volume1/music/Music/J/Jarreau, Al/Jarreau (1983)/06 Black and Blues.mp3",
+          "genre": "Jazz Vocal",
+          "length": 290826
+        },
+        {
+          "track": 7,
+          "title": "Trouble in Paradise",
+          "filename": "/volume1/music/Music/J/Jarreau, Al/Jarreau (1983)/07 Trouble in Paradise.mp3",
+          "genre": "Jazz Vocal",
+          "length": 230373
+        },
+        {
+          "track": 8,
+          "title": "Not Like This",
+          "filename": "/volume1/music/Music/J/Jarreau, Al/Jarreau (1983)/08 Not Like This.mp3",
+          "genre": "Jazz Vocal",
+          "length": 158693
+        },
+        {
+          "track": 9,
+          "title": "Love is Waiting",
+          "filename": "/volume1/music/Music/J/Jarreau, Al/Jarreau (1983)/09 Love is Waiting.mp3",
+          "genre": "Jazz Vocal",
+          "length": 226306
+        }
+      ]
+    },
+    {
+      "album": "Look to the Rainbow",
+      "year": 1977,
+      "tracks":
+      [
+        {
+          "track": 1,
+          "title": "Letter Perfect",
+          "filename": "/volume1/music/Music/J/Jarreau, Al/Look to the Rainbow (live, 1977)/01 Letter Perfect.mp3",
+          "genre": "Jazz Vocal",
+          "length": 329373
+        },
+        {
+          "track": 2,
+          "title": "Rainbow in Your Eyes",
+          "filename": "/volume1/music/Music/J/Jarreau, Al/Look to the Rainbow (live, 1977)/02 Rainbow in Your Eyes.mp3",
+          "genre": "Jazz Vocal",
+          "length": 389733
+        },
+        {
+          "track": 3,
+          "title": "One Good Turn",
+          "filename": "/volume1/music/Music/J/Jarreau, Al/Look to the Rainbow (live, 1977)/03 One Good Turn.mp3",
+          "genre": "Jazz Vocal",
+          "length": 404466
+        },
+        {
+          "track": 4,
+          "title": "Could You Believe",
+          "filename": "/volume1/music/Music/J/Jarreau, Al/Look to the Rainbow (live, 1977)/04 Could You Believe.mp3",
+          "genre": "Jazz Vocal",
+          "length": 414560
+        },
+        {
+          "track": 5,
+          "title": "Burst in With the Dawn",
+          "filename": "/volume1/music/Music/J/Jarreau, Al/Look to the Rainbow (live, 1977)/05 Burst in With the Dawn.mp3",
+          "genre": "Jazz Vocal",
+          "length": 360306
+        },
+        {
+          "track": 6,
+          "title": "Better Than Anything",
+          "filename": "/volume1/music/Music/J/Jarreau, Al/Look to the Rainbow (live, 1977)/06 Better Than Anything.mp3",
+          "genre": "Jazz Vocal",
+          "length": 312866
+        },
+        {
+          "track": 7,
+          "title": "So Long Girl",
+          "filename": "/volume1/music/Music/J/Jarreau, Al/Look to the Rainbow (live, 1977)/07 So Long Girl.mp3",
+          "genre": "Jazz Vocal",
+          "length": 246533
+        },
+        {
+          "track": 8,
+          "title": "Look to the Rainbow",
+          "filename": "/volume1/music/Music/J/Jarreau, Al/Look to the Rainbow (live, 1977)/08 Look to the Rainbow.mp3",
+          "genre": "Jazz Vocal",
+          "length": 497760
+        },
+        {
+          "track": 9,
+          "title": "You Don't See Me",
+          "filename": "/volume1/music/Music/J/Jarreau, Al/Look to the Rainbow (live, 1977)/09 You Don't See Me.mp3",
+          "genre": "Jazz Vocal",
+          "length": 344200
+        },
+        {
+          "track": 10,
+          "title": "Take Five",
+          "filename": "/volume1/music/Music/J/Jarreau, Al/Look to the Rainbow (live, 1977)/10 Take Five.mp3",
+          "genre": "Jazz Vocal",
+          "length": 403973
+        },
+        {
+          "track": 11,
+          "title": "Loving You",
+          "filename": "/volume1/music/Music/J/Jarreau, Al/Look to the Rainbow (live, 1977)/11 Loving You.mp3",
+          "genre": "Jazz Vocal",
+          "length": 297893
+        },
+        {
+          "track": 12,
+          "title": "We Got By",
+          "filename": "/volume1/music/Music/J/Jarreau, Al/Look to the Rainbow (live, 1977)/12 We Got By.mp3",
+          "genre": "Jazz Vocal",
+          "length": 415306
+        }
+      ]
+    },
+    {
+      "album": "Tenderness",
+      "year": 1994,
+      "tracks":
+      [
+        {
+          "track": 1,
+          "title": "Mas Que Nada",
+          "filename": "/volume1/music/Music/J/Jarreau, Al/Tenderness (1994)/01 Mas Que Nada.mp3",
+          "genre": "Jazz Vocal",
+          "length": 314306
+        },
+        {
+          "track": 2,
+          "title": "Try a Little Tenderness",
+          "filename": "/volume1/music/Music/J/Jarreau, Al/Tenderness (1994)/02 Try a Little Tenderness.mp3",
+          "genre": "Jazz Vocal",
+          "length": 456693
+        },
+        {
+          "track": 3,
+          "title": "Your Song",
+          "filename": "/volume1/music/Music/J/Jarreau, Al/Tenderness (1994)/03 Your Song.mp3",
+          "genre": "Jazz Vocal",
+          "length": 365266
+        },
+        {
+          "track": 4,
+          "title": "My Favorite Things",
+          "filename": "/volume1/music/Music/J/Jarreau, Al/Tenderness (1994)/04 My Favorite Things.mp3",
+          "genre": "Jazz Vocal",
+          "length": 320800
+        },
+        {
+          "track": 5,
+          "title": "She's Leaving Home",
+          "filename": "/volume1/music/Music/J/Jarreau, Al/Tenderness (1994)/05 She's Leaving Home.mp3",
+          "genre": "Jazz Vocal",
+          "length": 459266
+        },
+        {
+          "track": 6,
+          "title": "Summertime",
+          "filename": "/volume1/music/Music/J/Jarreau, Al/Tenderness (1994)/06 Summertime.mp3",
+          "genre": "Jazz Vocal",
+          "length": 377466
+        },
+        {
+          "track": 7,
+          "title": "We Got By",
+          "filename": "/volume1/music/Music/J/Jarreau, Al/Tenderness (1994)/07 We Got By.mp3",
+          "genre": "Jazz Vocal",
+          "length": 364240
+        },
+        {
+          "track": 8,
+          "title": "Save Your Love For Me",
+          "filename": "/volume1/music/Music/J/Jarreau, Al/Tenderness (1994)/08 Save Your Love For Me.mp3",
+          "genre": "Jazz Vocal",
+          "length": 354760
+        },
+        {
+          "track": 9,
+          "title": "You Don't See Me",
+          "filename": "/volume1/music/Music/J/Jarreau, Al/Tenderness (1994)/09 You Don't See Me.mp3",
+          "genre": "Jazz Vocal",
+          "length": 326840
+        },
+        {
+          "track": 10,
+          "title": "Wait For the Magic",
+          "filename": "/volume1/music/Music/J/Jarreau, Al/Tenderness (1994)/10 Wait For the Magic.mp3",
+          "genre": "Jazz Vocal",
+          "length": 352493
+        },
+        {
+          "track": 11,
+          "title": "Dinosaur",
+          "filename": "/volume1/music/Music/J/Jarreau, Al/Tenderness (1994)/11 Dinosaur.mp3",
+          "genre": "Jazz Vocal",
+          "length": 323866
+        },
+        {
+          "track": 12,
+          "title": "Go Away Little Girl",
+          "filename": "/volume1/music/Music/J/Jarreau, Al/Tenderness (1994)/12 Go Away Little Girl.mp3",
+          "genre": "Jazz Vocal",
+          "length": 343040
+        }
+      ]
+    },
+    {
+      "album": "This One's For You",
+      "year": 2002,
+      "tracks":
+      [
+        {
+          "track": 1,
+          "title": "Ain't No Sunshine",
+          "filename": "/volume1/music/Music/J/Jarreau, Al/This One's For You (2002)/01 Ain't No Sunshine.mp3",
+          "genre": "Jazz Vocal",
+          "length": 122360
+        },
+        {
+          "track": 2,
+          "title": "Lean On Me",
+          "filename": "/volume1/music/Music/J/Jarreau, Al/This One's For You (2002)/02 Lean On Me.mp3",
+          "genre": "Jazz Vocal",
+          "length": 239200
+        },
+        {
+          "track": 3,
+          "title": "Use Me",
+          "filename": "/volume1/music/Music/J/Jarreau, Al/This One's For You (2002)/03 Use Me.mp3",
+          "genre": "Jazz Vocal",
+          "length": 218413
+        },
+        {
+          "track": 4,
+          "title": "Kissing My Love",
+          "filename": "/volume1/music/Music/J/Jarreau, Al/This One's For You (2002)/04 Kissing My Love.mp3",
+          "genre": "Jazz Vocal",
+          "length": 216400
+        },
+        {
+          "track": 5,
+          "title": "Grandma's Hands",
+          "filename": "/volume1/music/Music/J/Jarreau, Al/This One's For You (2002)/05 Grandma's Hands.mp3",
+          "genre": "Jazz Vocal",
+          "length": 118266
+        },
+        {
+          "track": 6,
+          "title": "You",
+          "filename": "/volume1/music/Music/J/Jarreau, Al/This One's For You (2002)/06 You.mp3",
+          "genre": "Jazz Vocal",
+          "length": 319026
+        },
+        {
+          "track": 7,
+          "title": "Lonely Town, Lonely Street",
+          "filename": "/volume1/music/Music/J/Jarreau, Al/This One's For You (2002)/07 Lonely Town, Lonely Street.mp3",
+          "genre": "Jazz Vocal",
+          "length": 219253
+        },
+        {
+          "track": 8,
+          "title": "The Same Love That Made Me Laugh",
+          "filename": "/volume1/music/Music/J/Jarreau, Al/This One's For You (2002)/08 The Same Love That Made Me Laugh.mp3",
+          "genre": "Jazz Vocal",
+          "length": 202866
+        }
+      ]
+    },
+    {
+      "album": "This Time",
+      "year": 1980,
+      "tracks":
+      [
+        {
+          "track": 1,
+          "title": "Never Givin' Up",
+          "filename": "/volume1/music/Music/J/Jarreau, Al/This Time (1980)/01 Never Givin' Up.mp3",
+          "genre": "Jazz Vocal",
+          "length": 238733
+        },
+        {
+          "track": 2,
+          "title": "Gimme What You Got",
+          "filename": "/volume1/music/Music/J/Jarreau, Al/This Time (1980)/02 Gimme What You Got.mp3",
+          "genre": "Jazz Vocal",
+          "length": 225466
+        },
+        {
+          "track": 3,
+          "title": "Love is Real",
+          "filename": "/volume1/music/Music/J/Jarreau, Al/This Time (1980)/03 Love is Real.mp3",
+          "genre": "Jazz Vocal",
+          "length": 266173
+        },
+        {
+          "track": 4,
+          "title": "Alonzo",
+          "filename": "/volume1/music/Music/J/Jarreau, Al/This Time (1980)/04 Alonzo.mp3",
+          "genre": "Jazz Vocal",
+          "length": 326600
+        },
+        {
+          "track": 5,
+          "title": "(If I Could Only) Change Your Mind",
+          "filename": "/volume1/music/Music/J/Jarreau, Al/This Time (1980)/05 (If I Could Only) Change Your Mind.mp3",
+          "genre": "Jazz Vocal",
+          "length": 257826
+        },
+        {
+          "track": 6,
+          "title": "Spain (I Can Recall)",
+          "filename": "/volume1/music/Music/J/Jarreau, Al/This Time (1980)/06 Spain (I Can Recall).mp3",
+          "genre": "Jazz Vocal",
+          "length": 392800
+        },
+        {
+          "track": 7,
+          "title": "Distracted",
+          "filename": "/volume1/music/Music/J/Jarreau, Al/This Time (1980)/07 Distracted.mp3",
+          "genre": "Jazz Vocal",
+          "length": 353306
+        },
+        {
+          "track": 8,
+          "title": "Your Sweet Love",
+          "filename": "/volume1/music/Music/J/Jarreau, Al/This Time (1980)/08 Your Sweet Love.mp3",
+          "genre": "Jazz Vocal",
+          "length": 254533
+        },
+        {
+          "track": 9,
+          "title": "(A Rhyme) This Time",
+          "filename": "/volume1/music/Music/J/Jarreau, Al/This Time (1980)/09 (A Rhyme) This Time.mp3",
+          "genre": "Jazz Vocal",
+          "length": 221960
+        }
+      ]
+    },
+    {
+      "album": "Tomorrow Today",
+      "year": 2000,
+      "tracks":
+      [
+        {
+          "track": 1,
+          "title": "Just to Be Loved",
+          "filename": "/volume1/music/Music/J/Jarreau, Al/Tomorrow Today (2000)/01 Just to Be Loved.mp3",
+          "genre": "Jazz Vocal",
+          "length": 258600
+        },
+        {
+          "track": 2,
+          "title": "Let Me Love You",
+          "filename": "/volume1/music/Music/J/Jarreau, Al/Tomorrow Today (2000)/02 Let Me Love You.mp3",
+          "genre": "Jazz Vocal",
+          "length": 281826
+        },
+        {
+          "track": 3,
+          "title": "In My Music",
+          "filename": "/volume1/music/Music/J/Jarreau, Al/Tomorrow Today (2000)/03 In My Music.mp3",
+          "genre": "Jazz Vocal",
+          "length": 245200
+        },
+        {
+          "track": 4,
+          "title": "Through It All",
+          "filename": "/volume1/music/Music/J/Jarreau, Al/Tomorrow Today (2000)/04 Through It All.mp3",
+          "genre": "Jazz Vocal",
+          "length": 270373
+        },
+        {
+          "track": 5,
+          "title": "Tomorrow Today",
+          "filename": "/volume1/music/Music/J/Jarreau, Al/Tomorrow Today (2000)/05 Tomorrow Today.mp3",
+          "genre": "Jazz Vocal",
+          "length": 281626
+        },
+        {
+          "track": 6,
+          "title": "Flame",
+          "filename": "/volume1/music/Music/J/Jarreau, Al/Tomorrow Today (2000)/06 Flame.mp3",
+          "genre": "Jazz Vocal",
+          "length": 331600
+        },
+        {
+          "track": 7,
+          "title": "Something That You Said",
+          "filename": "/volume1/music/Music/J/Jarreau, Al/Tomorrow Today (2000)/07 Something That You Said.mp3",
+          "genre": "Jazz Vocal",
+          "length": 357640
+        },
+        {
+          "track": 8,
+          "title": "Last Night",
+          "filename": "/volume1/music/Music/J/Jarreau, Al/Tomorrow Today (2000)/08 Last Night.mp3",
+          "genre": "Jazz Vocal",
+          "length": 228093
+        },
+        {
+          "track": 9,
+          "title": "God's Gift to the World",
+          "filename": "/volume1/music/Music/J/Jarreau, Al/Tomorrow Today (2000)/09 God's Gift to the World.mp3",
+          "genre": "Jazz Vocal",
+          "length": 268040
+        },
+        {
+          "track": 10,
+          "title": "It's How You Say It",
+          "filename": "/volume1/music/Music/J/Jarreau, Al/Tomorrow Today (2000)/10 It's How You Say It.mp3",
+          "genre": "Jazz Vocal",
+          "length": 285733
+        },
+        {
+          "track": 11,
+          "title": "Puddit (Put It Where You Want It)",
+          "filename": "/volume1/music/Music/J/Jarreau, Al/Tomorrow Today (2000)/11 Puddit (Put It Where You Want It).mp3",
+          "genre": "Jazz Vocal",
+          "length": 164933
+        }
+      ]
+    },
+    {
+      "album": "We Got By",
+      "year": 1975,
+      "tracks":
+      [
+        {
+          "track": 1,
+          "title": "Spirit",
+          "filename": "/volume1/music/Music/J/Jarreau, Al/We Got By (1975)/01 Spirit.mp3",
+          "genre": "Jazz Vocal",
+          "length": 252040
+        },
+        {
+          "track": 2,
+          "title": "We Got By",
+          "filename": "/volume1/music/Music/J/Jarreau, Al/We Got By (1975)/02 We Got By.mp3",
+          "genre": "Jazz Vocal",
+          "length": 305760
+        },
+        {
+          "track": 3,
+          "title": "Susan's Song",
+          "filename": "/volume1/music/Music/J/Jarreau, Al/We Got By (1975)/03 Susan's Song.mp3",
+          "genre": "Jazz Vocal",
+          "length": 357306
+        },
+        {
+          "track": 4,
+          "title": "You Don't See Me",
+          "filename": "/volume1/music/Music/J/Jarreau, Al/We Got By (1975)/04 You Don't See Me.mp3",
+          "genre": "Jazz Vocal",
+          "length": 297333
+        },
+        {
+          "track": 5,
+          "title": "Lock All the Gates",
+          "filename": "/volume1/music/Music/J/Jarreau, Al/We Got By (1975)/05 Lock All the Gates.mp3",
+          "genre": "Jazz Vocal",
+          "length": 334933
+        },
+        {
+          "track": 6,
+          "title": "Raggedy Ann",
+          "filename": "/volume1/music/Music/J/Jarreau, Al/We Got By (1975)/06 Raggedy Ann.mp3",
+          "genre": "Jazz Vocal",
+          "length": 184293
+        },
+        {
+          "track": 7,
+          "title": "Letter Perfect",
+          "filename": "/volume1/music/Music/J/Jarreau, Al/We Got By (1975)/07 Letter Perfect.mp3",
+          "genre": "Jazz Vocal",
+          "length": 258333
+        },
+        {
+          "track": 8,
+          "title": "Sweet Potato Pie",
+          "filename": "/volume1/music/Music/J/Jarreau, Al/We Got By (1975)/08 Sweet Potato Pie.mp3",
+          "genre": "Jazz Vocal",
+          "length": 193773
+        },
+        {
+          "track": 9,
+          "title": "Aladdin's Lamp",
+          "filename": "/volume1/music/Music/J/Jarreau, Al/We Got By (1975)/09 Aladdin's Lamp.mp3",
+          "genre": "Jazz Vocal",
+          "length": 294760
+        }
+      ]
+    }
+  ]
+}
