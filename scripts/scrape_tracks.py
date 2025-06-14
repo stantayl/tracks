@@ -10,7 +10,6 @@ from typing import Dict, Union
 
 
 class Tag(Enum):
-    # Defining map_from as an array to support fallback extraction tag names
     ALBUM = {"tag_name": "album", "map_from": "TALB", "is_int": False}
     ARTIST = {"tag_name": "artist", "map_from": "TPE1", "is_int": False}
     GENRE = {"tag_name": "genre", "map_from": "TCON", "is_int": False}
@@ -45,9 +44,6 @@ class Tag(Enum):
 
 def get_tag(id3: ID3, tag_name: str) -> str:
     v = id3.get(tag_name)
-    if tag_name == "TLEN":
-        print(f'TLEN: {v}', file=sys.stderr)
-
     return str(v.text[0] if v else "")
 
 
@@ -77,7 +73,6 @@ def get_tags(filename: str) -> Union[Dict[str, Union[str, int]], None]:
         audio = MP3(filename)
         my_tags[Tag.LENGTH.tag_name] = int(audio.info.length * 1000)  # seconds -> msec
 
-    print(f'Audio length: {my_tags.get(Tag.LENGTH.tag_name)}', file=sys.stderr)
     return my_tags
 
 
@@ -87,11 +82,13 @@ def filename_extension(filename: str) -> Union[str, None]:
 
 
 def is_audio_file(filename: str) -> bool:
-    return filename_extension(filename) in [".mp3", ".flac", ".m4a"]
+    audio_file_extensions = [".mp3", ".flac", ".m4a"]
+    return filename_extension(filename) in audio_file_extensions
 
 
 def quoted(tag: str, v: Union[str, int]) -> str:
-    return str(v) if tag in ["track", "year"] else f'"{v}"'
+    dont_quote = ["track", "year"]
+    return str(v) if tag in dont_quote else f'"{v}"'
 
 
 def get_and_print_tags(writer: csv.writer, filename: str) -> None:
@@ -123,7 +120,6 @@ def walk_and_display_metadata(path: str) -> None:
                     get_and_print_tags(writer, os.path.join(root, filename))
                 except Exception as e:
                     print(str(e), file=sys.stderr)
-
 
 
 if __name__ == "__main__":
