@@ -22,9 +22,8 @@ where:
 
 
 - **postgres** in a separate DBT project I loaded `tracks.tsv` into a local Postgres
-  instance so I could cross-check my Spark against straight SQL queries (DBT only
-  supports TSVs, not CSVs, as seed files so TODO: I should really rename the 
-  **csv** option to **tsv**)
+  instance so I could cross-check my Spark against straight SQL queries (TODO: I should
+  really rename the **csv** option to **tsv**)
 
 
 - **json** reads the nested JSON data written by `generate-json` (see below), for a
