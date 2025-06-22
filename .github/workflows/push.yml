@@ -15,8 +15,12 @@ permissions:
   contents: read
 
 jobs:
-  build:
+  test-and-build:
     runs-on: ubuntu-latest
+    env:
+      MY_SOURCE: "target/scala-2.13/tracks_2.13-0.1.0-SNAPSHOT.jar"
+      MY_TARGET: ${{ vars.MY_BUILD_NAME || 'defaultname.jar' }}
+
     permissions:
       contents: read
       security-events: write
@@ -31,9 +35,14 @@ jobs:
         cache: 'sbt'
     - uses: sbt/setup-sbt@v1
     - name: Run tests
-      run: sbt test
-      # Optional: This step uploads information to the GitHub dependency graph and unblocking Dependabot alerts for the repository
-#    - name: Upload dependency graph
-#      env:
-#        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-#      uses: scalacenter/sbt-dependency-submission@ab086b50c947c9774b70f39fc7f6e20ca2706c91
+      run: sbt test package
+    - name: Check for target
+      run: |
+        ls -lad target/scala*
+        ls -lad target/scala-2.13/*.jar
+    - name: Upload artifact
+      uses: actions/upload-artifact@v4
+      with:
+        name: ${{ env.MY_TARGET }}
+        path: ${{ env.MY_SOURCE }}
+        if-no-files-found: error
