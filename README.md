@@ -52,3 +52,5 @@ where:
   - `src/main/resources/sample.json` is a pretty-printed sample for reference 
 
 If `commands` is not supplied, then everything except `generate-json` is run by default
+
+Test
