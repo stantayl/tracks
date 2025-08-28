@@ -1,5 +1,5 @@
 # tracks
-Small Scala Spark testbed for playing with various DataFrame constructs.
+This is a small Scala Spark testbed for playing with various DataFrame constructs.
 
 Data source is based on a tag scrape of my MP3 collection, and the Spark code
 provides stats on the collection as well as flagging files whose tags are in need
