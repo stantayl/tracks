@@ -57,4 +57,10 @@ class CliSpec extends AnyFunSuite {
       MainArgs.dataSource
     }
   }
+
+  test("Fixed bad test") {
+    parseArgs("-s", "json")
+
+    assert(MainArgs.dataSource == MainArgs.DataSource.Json)
+  }
 }
